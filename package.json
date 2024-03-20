@@ -6,12 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/godekggs/from-data-to-midi.git"
-  },
-  "keywords": [],
-  },
   "homepage": "https://github.com/godekggs/from-data-to-sound#readme",
   "dependencies": {
     "scribbletune": "^0.11.2",
