@@ -1,6 +1,6 @@
 {
   "name": "from-data-to-sound",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "Simple Node.js script to transform data to a MIDI file",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wbkd/from-data-to-midi.git"
+    "url": "git+https://github.com/godekggs/from-data-to-sound.git"
   },
-  "keywords": [],
-  "author": {
-    "name" : "Moritz Klack",
-    "email" : "moritz@webkid.io",
-    "url" : "https://webkid.io"
+  "dependencies": {
+    "@chakra-ui/menu": "^2.1.12",
+    "@ardianreiss/simple-evm-faucet": "1.1.0",
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wbkd/from-data-to-sound/issues"
+    "url": "https://github.com/godekggs/from-data-to-soundd/issues"
   },
-  "homepage": "https://github.com/wbkd/from-data-to-sound#readme",
+  "homepage": "https://github.com/godekggs/from-data-to-sound#readme",
   "dependencies": {
     "scribbletune": "^0.11.2"
   }
