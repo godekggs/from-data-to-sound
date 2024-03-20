@@ -1,6 +1,6 @@
 {
   "name": "from-data-to-sound",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Simple Node.js script to transform data to a MIDI file",
   "main": "index.js",
   "scripts": {
