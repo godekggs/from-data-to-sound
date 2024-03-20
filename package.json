@@ -10,16 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/godekggs/from-data-to-sound.git"
   },
-  "dependencies": {
-    "@chakra-ui/menu": "^2.1.12",
-    "@ardianreiss/simple-evm-faucet": "1.1.0",
-  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/godekggs/from-data-to-soundd/issues"
   },
   "homepage": "https://github.com/godekggs/from-data-to-sound#readme",
   "dependencies": {
-    "scribbletune": "^0.11.2"
+    "@ardianreiss/simple-evm-faucet": "1.1.0",
   }
 }
